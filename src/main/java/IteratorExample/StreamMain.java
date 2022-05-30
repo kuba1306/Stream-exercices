@@ -14,7 +14,7 @@ public class StreamMain {
 //
 //        beautifier.beautify("hahahhaha");
 
-        System.out.println("Using Stream to generate even numbers from 1 to 20");
+        System.out.println("Using Stream to generate even numbers from 1 to 20a");
         NumbersGenerator.generateEven(200);
 
 
